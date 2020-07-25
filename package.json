@@ -1,0 +1,38 @@
+{
+    "name": "vuepress-plugin-internal-link",
+    "version": "0.1.0",
+    "description": "Parse [[internal link]] into normal markdown links to let them be supported in vuepress, which is useful for Wiki writers and researchers. ",
+    "main": "index.js",
+    "dependencies": {
+        "@ig3/markdown-it-wikilinks": "1.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RoderickQiu/vuepress-plugin-internal-link.git"
+    },
+    "author": {
+        "name": "Roderick Qiu",
+        "email": "scrisqiu@hotmail.com",
+        "url": "http://github.com/RoderickQiu"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RoderickQiu/vuepress-plugin-internal-link/issues"
+    },
+    "homepage": "https://github.com/RoderickQiu/vuepress-plugin-internal-link#readme",
+    "keywords": [
+        "documentation",
+        "vue",
+        "vuepress",
+        "vuepress-plugin",
+        "internal",
+        "link",
+        "note",
+        "wiki",
+        "roam",
+        "glossary",
+        "generator",
+        "scris",
+        "RoderickQiu"
+    ]
+}
