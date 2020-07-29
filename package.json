@@ -1,6 +1,6 @@
 {
     "name": "vuepress-plugin-internal-link",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Parse [[internal link]] into normal markdown links to let them be supported in vuepress, which is useful for Wiki writers and researchers. ",
     "main": "index.js",
     "dependencies": {
